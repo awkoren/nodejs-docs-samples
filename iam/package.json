@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-docs-samples-iam",
+  "version": "1.0.0",
+  "description": "Node.js samples for Google Cloud IAM",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "googleapis": "^37.1.0"
+  }
+}
